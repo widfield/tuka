@@ -1,11 +1,24 @@
 {
   "expo": {
-    "name": "front-end",
-    "slug": "front-end",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "name": "TUKA",
+    "slug": "TUKA",
+    "version": "0.0.1",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.pastet.tuka",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyC0uWIhxd3A3dGaCovcE-Zmyi5SswXlodM"
+        }
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "tuka.app",
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyC0uWIhxd3A3dGaCovcE-Zmyi5SswXlodM"
+      }
+    }
   },
-  "name": "front-end"
+  "name": "TUKA"
 }

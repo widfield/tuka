@@ -1,0 +1,97 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "name": "Pastet",
+      "latitude": 42.698334,
+      "longitude": 23.319941,
+      "description": "Tuka se sluchvat nqkvi tejki svinshtini nai-redovno. Suvetvame vi da vnimaate ko praite shtot ima kauboiski sreshti. Ako se chustvate mnoo barbalei elate i vijte za ko ide rech i dali vuobshte moe da smognete na tolko boi. Pedali",
+      "rating": 4.7,
+      "address": "Sofia 1000",
+      "events": [
+        {
+          "id": 1,
+          "name": "Hip-hop",
+          "date": "27/02/21",
+          "description": "mn tejuk rab tuka sme gengsta ne sme putki",
+          "image": {
+            "href": "https://img.freepik.com/free-vector/hip-hop-style-t-shirt-design_9645-1054.jpg?w=826"
+          }
+        },
+        {
+          "id": 2,
+          "name": "DNB",
+          "description": "mn tejuk rab tuka sme gengsta ne sme putki",
+          "date": "29/01/21",
+          "image": {
+            "href": "https://cdn-radiotime-logos.tunein.com/s280691d.png"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Ladies free",
+          "description": "mn tejuk rab tuka sme gengsta ne sme putki",
+          "date": "30/06/21",
+          "image": {
+            "href": "https://timesamui.com/upload/events/25/18/ladies-night-thursday.jpg?1573075952"
+          }
+        }
+      ],
+      "image": {
+        "href": "https://img.static-kl.com/images/media/E95E1F32-A7A4-4FC0-AC0A41A2BC528AE3?aspect_ratio=1:1&min_width=912"
+      }
+    },
+    {
+      "id": 2,
+      "name": "BIAD",
+      "latitude": 42.6928199,
+      "longitude": 23.3261817,
+      "description": "Biad Premium Club е едно от най-старите и хитови заведения в центъра на София с богата история, датираща от средата на 30-те години на миналия век. Заведението предлага разнообразна развлекателна програма и организира различни мероприятия. В клуб БИАД гостуват редовно популярни български и чужди изпълнители",
+      "rating": 3.1,
+      "address": "Sofia 1000",
+      "events": [
+        {
+          "id": 1,
+          "name": "Ретро",
+          "date": "27/02/21",
+          "image": {
+            "href": "https://thesite.bg/upload/images/articles/12301565_10206063004039017_6541151454746582463_n.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Каубойска среща",
+          "date": "29/01/21",
+          "image": {
+            "href": "https://media.gettyimages.com/photos/ricky-simon-punches-urijah-faber-in-their-bantamweight-bout-during-picture-id1155507414?s=2048x2048"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Салфетка Day",
+          "date": "30/06/21",
+          "image": {
+            "href": "https://markita.net/sites/default/files/2019-06/%D0%A1%D0%90%D0%9B%D0%A4%D0%95%D0%A2%D0%9A%D0%98%20%D0%97%D0%95%D0%91%D0%A0%D0%90%2045%D0%B1%D1%80.%2033%D1%8533%20GOLD%20%D0%BB%D0%B8%D0%BB%D0%B0%D0%B2%D0%B8%20513001728%200.160.JPG"
+          },
+          "description": ""
+        }
+      ],
+      "image": {
+        "href": "https://rezzo.bg/files/images/10735/fit_431_304.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Iluzzion",
+      "latitude": 42.6520848,
+      "longitude": 23.3352368,
+      "description": "Dance & Night Club in Sofia, Bulgaria",
+      "rating": 3.7,
+      "address": "Sofia 1000",
+      "events": [],
+      "image": {
+        "href": "https://fenixnews.eu/wp-content/uploads/2020/03/89832665_1904134553054488_5188659216163799040_o-760x490.jpg"
+      }
+    }
+  ]
+}
